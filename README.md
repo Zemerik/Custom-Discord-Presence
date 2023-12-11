@@ -4,16 +4,18 @@
 
 This project allows to have your own custom discord presence, which is fully customizable. The standard presence comes with 2 images (1 small & 1 big), Timezone, Name, State, Details, and 2 buttons. Note that this is 100% Customisable to your choice!
 
+<img src = "https://cdn.discordapp.com/attachments/1135858276567883776/1183664213860819055/image.png?ex=65892834&is=6576b334&hm=8f4fca9f0d6ce11e5320b75ea836221638c5001901ad8812dfe95afd2c04d9f4&">
+
 ## How to use:
 
 ### Mobile Users:
-> Unfortunetly this code is unnable to function for mobile users. 
+> Unfortunetly this code is unnable to function for mobile users which is why you will need to order through my [discord](https://discord.gg/w4mTtEsHRC). You can also order if you are facing any errors. 
 
 ### Cloning:
 1. First clone this repository in your local machine by running the folowing GIT Command (preferebly in your Code Editors Terminal):
 
 ```git
-git clone https://github.com/Zemerik/Custom-Discord Presence
+git clone https://github.com/Zemerik/Custom-Discord-Presence
 ```
 
 > Note that you don't have to use GIT, you can simple copy paste the code.
@@ -48,3 +50,29 @@ npm install ascii-table
 
 ### Running:
 1. Now run your project, and you should be able to see your custom presence!
+
+## Contributing
+
+If you would like to Contribute to this Repository, kindly follow the instructions below:
+
+### Step 1: Forking the repo
+
+- A fork is a local copy of the repo on **YOUR** GitHub account. This will allow you to commit on that Repo.
+- [Click Here to Fork](https://github.com/Zemerik/Custom-Discord-Presence/fork)
+
+### Step 2: Commiting
+
+- Make the desired changes in the Repo you just **FORKED** and Commit your changes
+
+### Step 3: Pull Request
+
+- Head over to the original repo, and open a [**PULL REQUEST**](https://github.com/Zemerik/Custom-Discord-Presence/pulls)
+
+Your pull request will be merged as soon as possible after it has been reviewed.
+
+## Support:
+
+- For any kind of support, it will be best to ask in my [discord server](https://discord.gg/w4mTtEsHRC). 
+
+## Thanks for Visiting
+Don't forget to leave a ⭐

@@ -9,7 +9,7 @@ This project allows to have your own custom discord presence, which is fully cus
 ## How to use:
 
 ### Mobile Users:
-> Unfortunetly this code is unnable to function for mobile users which is why you will need to order through my [discord](https://discord.gg/w4mTtEsHRC). You can also order if you are facing any errors. 
+> Unfortunetly this code is unnable to function for mobile users. 
 
 ### Cloning:
 1. First clone this repository in your local machine by running the folowing GIT Command (preferebly in your Code Editors Terminal):
@@ -69,10 +69,6 @@ If you would like to Contribute to this Repository, kindly follow the instructio
 - Head over to the original repo, and open a [**PULL REQUEST**](https://github.com/Zemerik/Custom-Discord-Presence/pulls)
 
 Your pull request will be merged as soon as possible after it has been reviewed.
-
-## Support:
-
-- For any kind of support, it will be best to ask in my [discord server](https://discord.gg/w4mTtEsHRC). 
 
 ## Thanks for Visiting
 Don't forget to leave a ⭐

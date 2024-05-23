@@ -1,15 +1,21 @@
-# Custom-Discord-Presence
+<h1 align = "center">
+  CUSTOM DISCORD PRESENCE
+</h1>
+
+<p align = "center"><img src = "https://skillicons.dev/icons?i=javascript,nodejs,discordjs,vscode&perline=25"></p>
 
 ## About:
 
-This project allows to have your own custom discord presence, which is fully customizable. The standard presence comes with 2 images (1 small & 1 big), Timezone, Name, State, Details, and 2 buttons. Note that this is 100% Customisable to your choice!
+This project utilizes Discord's API to create a personalized Discord Presence for users. With this custom Presence, users have the flexibility to fully customize various aspects such as images, timezone settings, text sizes, and more. It offers a seamless way to enhance your Discord experience and make it uniquely yours.
 
-<img src = "https://cdn.discordapp.com/attachments/1135858276567883776/1183664213860819055/image.png?ex=65892834&is=6576b334&hm=8f4fca9f0d6ce11e5320b75ea836221638c5001901ad8812dfe95afd2c04d9f4&">
+Below is an example of the discord presence👇
+
+![Presence Image](Assets/Presence.png)
 
 ## How to use:
 
-### Mobile Users:
-> Unfortunetly this code is unnable to function for mobile users. 
+> [!IMPORTANT]
+> This Repository cannot be used by mobile users unfortunately.
 
 ### Cloning:
 1. First clone this repository in your local machine by running the folowing GIT Command (preferebly in your Code Editors Terminal):
@@ -18,7 +24,8 @@ This project allows to have your own custom discord presence, which is fully cus
 git clone https://github.com/Zemerik/Custom-Discord-Presence
 ```
 
-> Note that you don't have to use GIT, you can simple copy paste the code.
+> [!Note]
+> If you don't have to use GIT, you can simple copy paste the code or download as a ZIP Folder
 
 ### Installing:
 
@@ -41,11 +48,18 @@ npm install ascii-table
 ```
 
 ### Token
-1. Head over to the `config.js` file and add **YOUR ACCOUNT TOKEN** on line 4. 
+1. Head over to the `config.js` file and add **YOUR ACCOUNT TOKEN** on line **4**. 
+
+> [!Warning]
+> Your **ACCOUNT TOKEN** grants access to your discord account, so remember to keep it private and safe from others. 
+
+> [!Tip]
 > For Assistance, you can watch this video: https://youtu.be/LnBnm_tZlyU 
 
 ### Customizing:
 1. You can now edit your presence as you like in the `config.js` file, however remember the following:
+
+> [!Warning]
 > The image links must be `CDN` images. To solve this, simple send your image on discord, open the image in a browser and copy the link. 
 
 ### Running:
@@ -64,11 +78,14 @@ If you would like to Contribute to this Repository, kindly follow the instructio
 
 - Make the desired changes in the Repo you just **FORKED** and Commit your changes
 
+> [!Tip]
+> Dont't forget to add a good commit message, such as `feat: ...`, `fix: ....`, etc. 
+
 ### Step 3: Pull Request
 
 - Head over to the original repo, and open a [**PULL REQUEST**](https://github.com/Zemerik/Custom-Discord-Presence/pulls)
 
-Your pull request will be merged as soon as possible after it has been reviewed.
+> Your pull request will be merged as soon as possible after it has been reviewed.
 
 ## Thanks for Visiting
 Don't forget to leave a ⭐
